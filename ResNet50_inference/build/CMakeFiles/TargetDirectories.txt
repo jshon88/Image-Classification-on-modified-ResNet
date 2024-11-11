@@ -1,0 +1,3 @@
+/data/cmpe258-sp24/017553289/cmpe258/Assignment1/ResNet50_inference/build/CMakeFiles/inference.dir
+/data/cmpe258-sp24/017553289/cmpe258/Assignment1/ResNet50_inference/build/CMakeFiles/edit_cache.dir
+/data/cmpe258-sp24/017553289/cmpe258/Assignment1/ResNet50_inference/build/CMakeFiles/rebuild_cache.dir

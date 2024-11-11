@@ -1,0 +1,15 @@
+# Exclude folders
+imagenette
+libtorch
+serialized_batches
+experiment1
+experiment2
+experiment3
+ResNet50
+ResNet50_modified
+
+#Exclude specific files
+map_clsloc.txt
+#Exclude large files
+*.pt
+*.onnx 
