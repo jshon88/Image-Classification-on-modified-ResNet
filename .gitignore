@@ -13,3 +13,4 @@ map_clsloc.txt
 #Exclude large files
 *.pt
 *.onnx 
+/data/cmpe258-sp24/017553289/cmpe258/Assignment1/resnet50_modified.onnx
