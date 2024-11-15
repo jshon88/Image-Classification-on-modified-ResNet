@@ -2,11 +2,8 @@
 imagenette
 libtorch
 serialized_batches
-experiment1
-experiment2
-experiment3
-ResNet50
-ResNet50_modified
+runs/ResNet50_modified
+runs/ResNet50
 
 #Exclude specific files
 map_clsloc.txt
